@@ -1,4 +1,0 @@
-[submodule "lib/tacotron"]
-	path = lib/tacotron
-	url = https://github.com/boltomli/tacotron
-	branch = zh
